@@ -1,7 +1,7 @@
 <?php
 
 class QueenBee{
-
+//
 private $iHealth;
 private $iDamage;
 private $sColor;
